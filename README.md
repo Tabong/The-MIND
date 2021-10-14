@@ -7,6 +7,6 @@ if age >= 45:
 elif age != 40:
     print("I am of age.")
 elif age == 40:
-    print("Life beins at 40.")
+    print("Life begins at 40.")
 else:
     print("I am older.")
